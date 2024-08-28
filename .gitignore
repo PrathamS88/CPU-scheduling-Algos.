@@ -36,3 +36,5 @@ CPU-Scheduling-Algorithms.layout
 CPU-Scheduling-Algorithms.depend
 input.txt
 main
+#This git ignore file is taken from this preformed C++.gitignore-:
+#https://github.com/github/gitignore/blob/main/C%2B%2B.gitignore
